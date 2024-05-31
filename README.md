@@ -19,7 +19,17 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/vikalp-srivastava"/><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="https://www.discord.com/users/743485136280223754"/>
+    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  </a>&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/vikalp-srivastava"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>&nbsp;
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/KnightHoodVK/count.svg" />
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
@@ -46,6 +56,6 @@ hobbies: ["Gaming", "Cinema", "Basketball", "Swimming", "Reading"]
 ## 🏆 My Stats:
 
 <p align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KnightHoodVK&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightHoodVK&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KnightHoodVK&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightHoodVK&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
