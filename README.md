@@ -59,3 +59,13 @@ hobbies: ["Gaming", "Cinema", "Basketball", "Swimming", "Reading"]
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KnightHoodVK&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightHoodVK&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
+
+## 📌 Pinned
+<p align="center">
+  <a href="https://github.com/KnightHoodVK/Cyber-Security">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KnightHoodVK&repo=Cyber-Security&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/KnightHoodVK/Web-and-Other">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KnightHoodVK&repo=Web-and-Other&theme=tokyonight"/>
+  </a>
+</p>
